@@ -6,5 +6,6 @@ I'm Stefano, a passionate software developer from Italy!
 - 👯 I’m looking to collaborate on some cool open source projects, I've so much to learn about open source!
 - 📫 You can reach me at sellostefano[at]gmail[dot]com, or through my [linkedIn](https://www.linkedin.com/in/stefano-sello/) profile
 
-[![Mr5he11's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/Mr5he11/github-readme-stats)
+[![Mr5he11's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr5he11&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
