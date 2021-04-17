@@ -9,4 +9,4 @@ I'm Stefano, a passionate software developer from Italy!
 ### 🛠️ Tools and skills
 
 ### 🤖 Languages and frameworks
-![https://www.ruby-lang.org/en/](https://img.shields.io/badge/langs-ruby-informational?style=flat&logo=ruby)
+![https://www.ruby-lang.org/en/](https://img.shields.io/badge/LANG-ruby-informational?style=flat&logo=ruby&color=#cc342d)
