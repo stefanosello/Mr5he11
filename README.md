@@ -10,4 +10,5 @@ I'm Stefano, a passionate software developer from Italy!
 
 ### 🤖 Languages and frameworks
 ![https://www.ruby-lang.org/en/](https://img.shields.io/badge/LANG-ruby-informational?style=flat&logo=ruby&color=cc342d)
-![https://rubyonrails.org/](https://img.shields.io/badge/FW-RoR-informational?style=flat&logo=ruby-on-rails&color=cc0000&logoWidth=40)
+![https://rubyonrails.org/](https://img.shields.io/badge/FW-RoR-informational?style=flat&logo=ruby-on-rails&color=cc0000)
+![https://www.javascript.com/](https://img.shields.io/badge/LANG-javascript-informational?style=flat&logo=javascript&color=F7DF1E)
