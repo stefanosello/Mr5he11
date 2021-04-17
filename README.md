@@ -6,3 +6,7 @@ I'm Stefano, a passionate software developer from Italy!
 - 👯 I’m looking to collaborate on some cool open source projects, I've so much to learn about open source!
 - 📫 You can reach me at [sellostefano[at]gmail[dot]com](mailto:sellostefano@gmail.com), or through my [linkedIn](https://www.linkedin.com/in/stefano-sello/) profile
 
+### 🛠️ Tools and skills
+
+### 🤖 Languages and frameworks
+![https://www.ruby-lang.org/en/](https://img.shields.io/badge/langs-ruby-informational?style=flat&logo=ruby)
