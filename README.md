@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Stefano, a passionate software developer from Italy!
 
-- 🔭 I’m currently working as a full-stack developer
+- 🔭 I’m currently working as a full-stack developer for [Trovaprezzi.it](https://www.trovaprezzi.it)
 - 🌱 I’m currently learning cybersecurity and software dependability at [Ca' Foscari](https://unive.it) university of Venice
 - 👯 I’m looking to collaborate on some cool open source projects, I've so much to learn about open source!
-- 📫 You can reach me at [sellostefano[at]gmail[dot]com](mailto:sellostefano@gmail.com), or through my [linkedIn](https://www.linkedin.com/in/stefano-sello/) profile
+- 📫 You can reach me at sellostefano[at]gmail[dot]com, or through my [linkedIn](https://www.linkedin.com/in/stefano-sello/) profile
 
 ### 🛠️ Tools and skills
 ![https://code.visualstudio.com/](https://img.shields.io/badge/TOOL-VS%20code-informational?style=flat&logo=visual-studio-code&color=007ACC)
